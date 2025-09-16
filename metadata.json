@@ -1,0 +1,5 @@
+{
+  "name": "Student Manager Pro",
+  "description": "An intuitive application for teachers to easily track student attendance, homework, and progress, designed for one-handed mobile use.",
+  "requestFramePermissions": []
+}
